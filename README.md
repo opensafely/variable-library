@@ -21,7 +21,7 @@ It contains [issues](https://github.com/opensafely/long-covid/issues) for differ
 variable options with codeblocks for easy copy and pasting across to your study definition. 
 These have documentation and will act as an easily explainable _library_ of variables. 
 
-We will ilterate and roadtest the components of this library before implementing a more complicated
+We will iterate and roadtest the components of this library before implementing a more complicated
 project with user interface.
 Please see the [discussion](https://github.com/opensafely-core/roadmap/discussions/5)
 for what this project may iterate into. 
